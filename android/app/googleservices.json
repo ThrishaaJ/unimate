@@ -1,0 +1,38 @@
+"project_info": {
+    "project_number": "811387413528",
+    "project_id": "unimate-project-rgu-cc23b",
+    "storage_bucket": "unimate-project-rgu-cc23b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811387413528:android:e433e63edc6c2e67f08f6d",
+        "android_client_info": {
+          "package_name": "com.unimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811387413528-lbi2e3ip7cbnc13r937ha0posnro5iiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNXQQuelkzgcNSXFmg66Q-VMIgCudw9Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811387413528-lbi2e3ip7cbnc13r937ha0posnro5iiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
